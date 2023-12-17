@@ -14,17 +14,17 @@
 • TRAININGSET
 
 
-  ◦ Compounds as SMILES strings
+  - Compounds as SMILES strings
 
-  ◦ Activity value per compound-assay pair
+  - Activity value per compound-assay pair
 
-  ◦ Activity values: 1 (active), 0 (unknown), -1 (inactive)
+  - Activity values: 1 (active), 0 (unknown), -1 (inactive)
 
                
 
 • TESTSET
 
 
-  ◦ Compounds as SMILES strings
+  - Compounds as SMILES strings
 
 
