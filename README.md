@@ -3,3 +3,15 @@
 • Unbalancedlabels :different amount of actives/inactives.
 • Sparselabels :not all compound-assay pairs have measurements.
 • Masking :unknown samples need to be masked out for loss/evaluation.
+
+#Data
+
+• Trainingset
+◦ Compounds as SMILES strings
+◦ Activity value per compound-assay pair
+◦ Activity values: 1 (active), 0 (unknown), -1 (inactive)
+
+• Testset
+◦ Compounds as SMILES strings
+
+
