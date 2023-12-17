@@ -11,7 +11,8 @@
 ---------------------------------------------------------------------------------
 # Data
 
-• Trainingset
+• TRAININGSET
+
 
   ◦ Compounds as SMILES strings
 
@@ -19,9 +20,10 @@
 
   ◦ Activity values: 1 (active), 0 (unknown), -1 (inactive)
 
-               ----------------------------------
+               
 
-• Testset
+• TESTSET
+
 
   ◦ Compounds as SMILES strings
 
