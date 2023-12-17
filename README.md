@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------
 # Data
 
-• TRAININGSET
+ TRAININGSET
 
 
   - Compounds as SMILES strings
@@ -22,7 +22,7 @@
 
                
 
-• TESTSET
+TESTSET
 
 
   - Compounds as SMILES strings
